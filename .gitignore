@@ -27,8 +27,18 @@ share/python-wheels/
 MANIFEST
 CHIANTI_11.0_database/
 SITESpy/DEM.ipynb
+SITESpy/.DS_Store
 Vidzhet.zip
 images.zip
+multislit_data.pro
+multislit_transform.pro
+cuts/
+morlet/
+sunmean.ipynb
+events_analysis.pdf
+cutimages.zip
+images_prepare_lines.pdf
+*.png
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
